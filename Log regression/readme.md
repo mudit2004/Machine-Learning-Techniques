@@ -29,5 +29,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 - Thanks to scikit-learn for providing the Breast Cancer dataset.
 - Thanks to Kaggle for providing the Heart Disease dataset.
-- Thanks to the contributors of the Student Result dataset.
 - Special thanks to all contributors to open-source libraries used in this project.
