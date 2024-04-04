@@ -22,9 +22,11 @@ This repository serves as a collection of machine learning algorithms and techni
 - Random Forests
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
-- K-Means Clustering
 - Principal Component Analysis (PCA)
 - Llinear Discriminant Analysis (LDA)
+- Feed Forward NN
+- Convolutional Neural Network
+- Hidden Markov Model
 
 ## Usage
 
@@ -33,4 +35,4 @@ To use any of the implemented algorithms, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/machine-learning-techniques.git
+git clone https://github.com/mudit2004/machine-learning-techniques.git
