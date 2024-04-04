@@ -24,22 +24,10 @@ pip install scikit-learn matplotlib
 
 ## Usage
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/mudit2004/Machine-Learning-Techniques.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd your-repo
-```
-
-3. Run the Python script:
-
-```bash
-python rvm_classification.py
 ```
 
 ## License
